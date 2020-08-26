@@ -2,6 +2,6 @@
 
 
 ![Browser Output](images/image_01.png)
-![Browser Output](images/image_02
+![Browser Output](images/image_02.png)
 
 
