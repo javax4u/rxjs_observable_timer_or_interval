@@ -23,8 +23,8 @@ export class FromEventComponent implements OnInit,AfterViewInit {
       {
         let val="video "+count++;
       console.log(val);
-      this._designUtility.appendChild("elContainer",val);
-      this._designUtility.appendChild("elContainer2",val);
+      this._designUtility.appendChild(val,"elContainer");
+      this._designUtility.appendChild(val,"elContainer2");
 
     }
     )
